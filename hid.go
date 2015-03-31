@@ -20,7 +20,7 @@ import "C"
 import (
 	"errors"
 	"fmt"
-	"github.com/GeertJohan/cgo.wchar"
+	"github.com/NimbleIndustry/cgo.wchar"
 	"log"
 	"sync"
 	"unsafe"
